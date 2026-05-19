@@ -41,11 +41,16 @@ author: sososo442
 
 求和公式表示将一系列数值相加的运算，从第一个元素累加到第n个元素，是离散数学和算法分析的基础工具。
 
-##特别小报
+## 数学公式展示
 
-```python
-def hello_world():
-    print("Hello, Jekyll!")
-    return "Welcome to my blog"
+质能方程：
 
-result = hello_world()
+$$E = mc^2$$
+
+高斯积分：
+
+$$\int_{-\infty}^{+\infty} e^{-x^2} dx = \sqrt{\pi}$$
+
+求和公式：
+
+$$\sum_{i=1}^{n} x_i = x_1 + x_2 + \cdots + x_n$$
