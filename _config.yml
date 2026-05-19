@@ -1,0 +1,12 @@
+title: 我的博客
+email: ygdgdl@163.com
+description: >-
+  这是我的个人博客，使用 Jekyll 和 GitHub Pages 构建。
+baseurl: ""
+url: "https://sososo442.github.io"
+github_username: sososo442
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
